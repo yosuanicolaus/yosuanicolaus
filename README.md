@@ -3,27 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosuanicolaus&label=Profile%20views&color=0e75b6&style=flat" alt="yosuanicolaus" /> </p>
 
-- 🔭 I’m currently working on [my portfolio website](github.com/yosuanicolaus/home)
+- 🔭 I’m currently working on [my portfolio website](https://yosuanicolaus.vercel.app/)
 
 - 🌱 I’m currently learning **C++, Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [yosuanicolaus.vercel.app](yosuanicolaus.vercel.app)
+- 👨‍💻 All of my projects are available at [yosuanicolaus.vercel.app](https://yosuanicolaus.vercel.app/)
 
-- 📫 How to reach me **yosuanicolaus@gmail.com**
-
-- 📄 Know about my experiences [yosuanicolaus.vercel.app/resume](yosuanicolaus.vercel.app/resume)
+- 📫 How to reach me [**yosuanicolaus@gmail.com**](mailto:yosuanicolaus@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosuanicolaus" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17859248/cryodawn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yosuanicolaus" height="30" width="40" /></a>
-<a href="https://fb.com/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yosuanicolaus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cryodawn257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yosuanicolaus" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17859248/cryodawn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yosuanicolaus" height="30" width="40" /></a>
+<a href="https://fb.com/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
