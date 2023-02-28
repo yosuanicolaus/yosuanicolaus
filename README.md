@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yosua</h1>
-<h3 align="center">A self-taught frontend developer</h3>
-
+<h1 >Hello, World!</h1>
+<p>
+I'm Yosua Nicolaus, a self-taught frontend developer based in Sydney, Australia. I love to build projects and learn something new.
+I enjoy creating complex software from scratch. <a href="https://yosuanicolaus.vercel.app/" target="_blank">Take a look at some of my projects</a>
+</p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosuanicolaus&label=Profile%20views&color=0e75b6&style=flat" alt="yosuanicolaus" /> </p>
 
-- 🔭 I’m currently working on [my portfolio website](https://yosuanicolaus.vercel.app/)
-
+- 🔭 I’m currently working on [**my portfolio website**](https://yosuanicolaus.vercel.app/)
 - 🌱 I’m currently learning **C++, Ruby on Rails**
-
-- 👨‍💻 All of my projects are available at [yosuanicolaus.vercel.app](https://yosuanicolaus.vercel.app/)
-
-- 📫 How to reach me [**yosuanicolaus@gmail.com**](mailto:yosuanicolaus@gmail.com)
+- 👨‍💻 All of my projects are available at [**my portfolio website**](https://yosuanicolaus.vercel.app/)
+- 📫 How to reach me - [**yosuanicolaus@gmail.com**](mailto:yosuanicolaus@gmail.com)
+- 📄 Know about my experiences - [**resume**](yosuanicolaus.vercel.app/yosua-nicolaus-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
