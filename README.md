@@ -10,7 +10,7 @@ I enjoy creating complex software from scratch. <a href="https://yosuanicolaus.v
 - 🌱 I’m currently learning **C++, Ruby on Rails**
 - 👨‍💻 All of my projects are available at [**my portfolio website**](https://yosuanicolaus.vercel.app/)
 - 📫 How to reach me - [**yosuanicolaus@gmail.com**](mailto:yosuanicolaus@gmail.com)
-- 📄 Know about my experiences - [**resume**](https://yosuanicolaus.vercel.app/yosua-nicolaus-resume.pdf)
+- 📄 Know about my experiences - [**resume**](https://yosuanicolaus.vercel.app/Yosua_Nicolaus_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
