@@ -1,6 +1,6 @@
 <h1 >Hello, World!</h1>
 <p>
-I'm Yosua Nicolaus, a self-taught frontend developer based in Sydney, Australia. I love to build projects and learn something new.
+I'm Yosua Nicolaus, a self-taught software developer currently based in Belgium. I love to build projects and learn something new.
 I enjoy creating complex software from scratch. <a href="https://yosuanicolaus.vercel.app/" target="_blank">Take a look at some of my projects</a>
 </p>
   
