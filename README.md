@@ -1,13 +1,14 @@
 <h1 >Hello, World!</h1>
 <p>
-I'm Yosua Nicolaus, a self-taught software developer currently based in Belgium. I love to build projects and learn something new.
+I'm Yosua, a self-taught software developer currently based in Belgium. I love to build projects and learn something new.
 I enjoy creating complex software from scratch. <a href="https://yosuanicolaus.vercel.app/" target="_blank">Take a look at some of my projects</a>
 </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosuanicolaus&label=Profile%20views&color=0e75b6&style=flat" alt="yosuanicolaus" /> </p>
 
-- 🔭 I’m currently building [**ASCII projects**](https://github.com/yosuanicolaus/ascii_adventure)
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **C++**
+- 🔭 I’m currently building a side-project about music generation, [**Moira**](https://github.com/yosuanicolaus/moira)
+- 💻 I've been particularly interested in [**Competitive Programming**](https://github.com/yosuanicolaus/competitive-programming) recently
 - 👨‍💻 All of my projects are available at [**my portfolio website**](https://yosuanicolaus.vercel.app/)
 - 📫 Reach me at [**yosuanicolaus@gmail.com**](mailto:yosuanicolaus@gmail.com)
 - 📄 Or get my experiences in my [**resume**](https://yosuanicolaus.vercel.app/Yosua_Nicolaus_Resume.pdf)
@@ -16,16 +17,16 @@ I enjoy creating complex software from scratch. <a href="https://yosuanicolaus.v
 <p align="left">
 <a href="https://linkedin.com/in/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yosuanicolaus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yosuanicolaus" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/cryodawn257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yosuanicolaus" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/cryodawn257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yosuanicolaus" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yosuanicolaus" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yosuanicolaus" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17859248/cryodawn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yosuanicolaus" height="30" width="40" /></a>
-<a href="https://fb.com/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yosuanicolaus" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yosuanicolaus" height="30" width="40" /></a> -->
+<!-- <a href="https://stackoverflow.com/users/17859248/cryodawn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yosuanicolaus" height="30" width="40" /></a> -->
+<!-- <a href="https://fb.com/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yosuanicolaus" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table style="background-color: white;">
   <kbd>
     <br />
     <p align="center">
@@ -43,8 +44,9 @@ I enjoy creating complex software from scratch. <a href="https://yosuanicolaus.v
         <img align="center" title="TypeScript" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
         <img align="center" title="Python" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img align="center" title="C++" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-        <img align="center" title="Ruby" width="40px" style="padding-right: 10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-plain.svg" />
-        <img align="center" title="C#" width="40px" style="padding-right: 10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-plain.svg" />
+        <img align="center" title="Rust" width="40px" style="padding-right: 10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />
+<!--         <img align="center" title="Ruby" width="40px" style="padding-right: 10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-plain.svg" />
+        <img align="center" title="C#" width="40px" style="padding-right: 10px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-plain.svg" /> -->
         <br />
       </kbd>
       <kbd>
