@@ -2,19 +2,19 @@
 
 I'm Yosua, a software developer from Indonesia working at [@odoo](https://github.com/odoo). I'm currently based in Belgium.
 
-I love to solve problems and learn something new. I enjoy understanding complex software framework.
+I love to solve problems and learn something new. I enjoy understanding complex software architectures.
 
-- 🌱 I’m currently learning **Rust**
-- 💻 I'm currently interested in [**Competitive Programming**](https://github.com/yosuanicolaus/competitive-rust)
+- 🌱 I’m currently learning **Rust** :crab: 
+- 💻 I'm currently interested in [**competitive programming**](https://github.com/yosuanicolaus/competitive-rust)
 - 👨‍💻 All of my projects are available at [**my portfolio website**](https://yosuanicolaus.vercel.app/)
-- 📫 Reach me at [**yosuanicolaus@gmail.com**](mailto:yosuanicolaus@gmail.com)
-- 📄 Or get my experiences in my [**resume**](https://yosuanicolaus.vercel.app/Yosua_Nicolaus_Resume.pdf)
+- 📫 Feel free to contact me at [**yosuanicolaus@gmail.com**](mailto:yosuanicolaus@gmail.com)
+ <!-- - 📄 Or get my experiences in my [**resume**](https://yosuanicolaus.vercel.app/Yosua_Nicolaus_Resume.pdf) -->
 
 #### Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosuanicolaus" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yosuanicolaus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yosuanicolaus" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/yosuanicolaus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yosuanicolaus" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/cryodawn257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yosuanicolaus" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yosuanicolaus" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yosuanicolaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yosuanicolaus" height="30" width="40" /></a>
